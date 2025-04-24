@@ -28,39 +28,51 @@ A responsive, real-time cryptocurrency price tracker built with **React**, **Red
 
 ## 📦 Installation & Setup
 
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/KartikAmbupe/crypto-tracker.git
 cd crypto-tracker
-
-# Install dependencies
+```
+### Install dependencies
+```bash
 npm install
-
-# Start development server
+```
+### Start development server
+```bash
 npm run dev
-
+```
 # Build for production
+```bash
 npm run build
+```
 
-🧠 State Management
-Redux Toolkit manages all app state through cryptoSlice.
+---
 
-WebSocketManager connects to Binance streams for live price updates.
+## 🧠 State Management
 
-Selectors are used to prevent unnecessary re-renders.
+- Redux Toolkit manages all app state through cryptoSlice.
+- WebSocketManager connects to Binance streams for live price updates.
+- Selectors are used to prevent unnecessary re-renders.
+- No local component state is used for crypto data.
 
-No local component state is used for crypto data.
+---
 
-🖼️ UI Preview
+## 🖼️ UI Preview
 
-![image](https://github.com/user-attachments/assets/fcbfd119-dd82-4713-94c8-c4d9f7f7f6d2)
+![image](https://github.com/user-attachments/assets/fe0c651b-8681-4804-8c04-9be752ce634a)
 
-📄 License
+---
+
+## 📄 License
+
 Licensed under the MIT License.
 
-🙌 Acknowledgements
-Binance WebSocket API
+---
 
-Redux Toolkit
+## 🙌 Acknowledgements
 
-React + TypeScript Cheatsheets
+- Binance WebSocket API
+- Redux Toolkit
+- React TypeScript Cheatsheets
+
+
