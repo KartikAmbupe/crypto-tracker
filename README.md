@@ -41,7 +41,7 @@ npm install
 ```bash
 npm run dev
 ```
-# Build for production
+### Build for production
 ```bash
 npm run build
 ```
@@ -59,7 +59,11 @@ npm run build
 
 ## 🖼️ UI Preview
 
-![image](https://github.com/user-attachments/assets/fe0c651b-8681-4804-8c04-9be752ce634a)
+### Desktop View
+![image](https://github.com/user-attachments/assets/ea10f7df-52ab-4cbb-9257-a7ac74567684)
+
+### Mobile View
+![image](https://github.com/user-attachments/assets/df1f53b3-d62e-46ad-8c25-e5be1795ba2f)
 
 ---
 
