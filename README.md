@@ -67,6 +67,11 @@ npm run build
 
 ---
 
+## Walkthrough Video Link
+```bash
+https://drive.google.com/drive/folders/1tlkTE8kSZmQsQSoJkqABoM9lrJBW4Ex3?usp=drive_link
+```
+
 ## 📄 License
 
 Licensed under the MIT License.
